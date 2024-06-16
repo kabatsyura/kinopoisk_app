@@ -1,4 +1,4 @@
-# Movie app with kinopoisk.ru
+# Movie app.
 
 React приложение, которая подтягивает с API сайтa: [yts.mx](https://yts.mx) список фильмов.
 
