@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kinopoisk_app/static/css/main.54872e52.css",
-    "main.js": "/kinopoisk_app/static/js/main.2821afec.js",
+    "main.css": "/kinopoisk_app/static/css/main.06145ef0.css",
+    "main.js": "/kinopoisk_app/static/js/main.e5602db7.js",
     "index.html": "/kinopoisk_app/index.html",
-    "main.54872e52.css.map": "/kinopoisk_app/static/css/main.54872e52.css.map",
-    "main.2821afec.js.map": "/kinopoisk_app/static/js/main.2821afec.js.map"
+    "main.06145ef0.css.map": "/kinopoisk_app/static/css/main.06145ef0.css.map",
+    "main.e5602db7.js.map": "/kinopoisk_app/static/js/main.e5602db7.js.map"
   },
   "entrypoints": [
-    "static/css/main.54872e52.css",
-    "static/js/main.2821afec.js"
+    "static/css/main.06145ef0.css",
+    "static/js/main.e5602db7.js"
   ]
 }
